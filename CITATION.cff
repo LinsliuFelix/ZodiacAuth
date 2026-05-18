@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "在VR中基于知识的三维图形身份认证研究"
+type: Unity
+Programming language：C#
+Core Technology：3D graphical authentication，Chinese zodiac，sequence password
+authors:
+  - given-names: 少峰
+    family-names: 刘
+    affiliation: "暨南大学网络空间安全学院"
+date-released: 2026
+repository-code: "https://github.com/LinsliuFelix/ZodiacAuth"
