@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\23972\\bs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|c:\\users\\23972\\bs\\assets\\c#\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|C:\\Users\\23972\\bs\\assets\\c#\\registermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\registermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|C:\\Users\\23972\\bs\\assets\\c#\\zodiacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\zodiacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|C:\\Users\\23972\\bs\\assets\\c#\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\cameraorbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|C:\\Users\\23972\\bs\\assets\\c#\\zodiaccube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\zodiaccube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|C:\\Users\\23972\\bs\\assets\\c#\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A03ED-0B00-9855-6F38-21663B9FB6A2}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraOrbit.cs",
+              "DocumentMoniker": "C:\\Users\\23972\\bs\\Assets\\C#\\CameraOrbit.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\CameraOrbit.cs",
+              "ToolTip": "C:\\Users\\23972\\bs\\Assets\\C#\\CameraOrbit.cs",
+              "RelativeToolTip": "Assets\\C#\\CameraOrbit.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:38:18.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZodiacService.cs",
+              "DocumentMoniker": "C:\\Users\\23972\\bs\\Assets\\C#\\ZodiacService.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\ZodiacService.cs",
+              "ToolTip": "C:\\Users\\23972\\bs\\Assets\\C#\\ZodiacService.cs",
+              "RelativeToolTip": "Assets\\C#\\ZodiacService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:48:33.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZodiacCube.cs",
+              "DocumentMoniker": "C:\\Users\\23972\\bs\\Assets\\C#\\ZodiacCube.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\ZodiacCube.cs",
+              "ToolTip": "C:\\Users\\23972\\bs\\Assets\\C#\\ZodiacCube.cs",
+              "RelativeToolTip": "Assets\\C#\\ZodiacCube.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:01:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\23972\\bs\\Assets\\C#\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\23972\\bs\\Assets\\C#\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\C#\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:12:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\23972\\bs\\Assets\\C#\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\LoginManager.cs",
+              "ToolTip": "C:\\Users\\23972\\bs\\Assets\\C#\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\C#\\LoginManager.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAmwKMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:07:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterManager.cs",
+              "DocumentMoniker": "C:\\Users\\23972\\bs\\Assets\\C#\\RegisterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\RegisterManager.cs",
+              "ToolTip": "C:\\Users\\23972\\bs\\Assets\\C#\\RegisterManager.cs",
+              "RelativeToolTip": "Assets\\C#\\RegisterManager.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAywIsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:05:33.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
